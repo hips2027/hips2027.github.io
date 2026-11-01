@@ -109,7 +109,9 @@ The main focus areas for this workshop may include, but are not limited to:
 
 # Important Deadlines
 
-Submission due date: January 17, 2027, Anywhere on Earth (AoE)
+Abstract submission due date: January 13, 2027, Anywhere on Earth (AoE)
+
+Paper submission due date: January 17, 2027, Anywhere on Earth (AoE)
 
 Author notification: February 21, 2027 AoE
 
