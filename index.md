@@ -1,4 +1,4 @@
-![IPDPS 2027 Logo](/assets/2027-logo-300px.jpg)
+[![IPDPS 2027 Logo](/assets/2027-logo-300px.jpg)](https://www.ipdps.org/)
 
 **[Read the HIPS 2027 Call for Papers](cfp.md)**
 
