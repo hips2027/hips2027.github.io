@@ -200,7 +200,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [31st HIPS 2026](https://hips2026.github.io/)                                  | May 25th 2026   | New Orleans, Louisiana, USA         |
+| [31st HIPS 2026](https://hips-ipdps-2026.github.io/)                           | May 25th 2026   | New Orleans, Louisiana, USA         |
 | [30th HIPS 2025](https://hips2025.github.io/)                                  | June 3rd 2025   | Milan, Italy                        |
 | [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2024   | San Francisco, California, USA      |
 | [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
