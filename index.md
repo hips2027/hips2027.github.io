@@ -1,4 +1,4 @@
-![IPDPS 2026 Logo](/assets/2026-logo.png)
+![IPDPS 2026 Logo](/assets/2027-logo-300px.png)
 
 # 31st International Workshop on High-level Parallel Programming Models and Supportive Environments
 
