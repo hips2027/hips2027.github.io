@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: "HIPS 2027"
 description: "The 32st HIPS workshop, held in conjunction with IPDPS 2027."
 show_downloads: false
+repository: hips2027/hips2027.github.io
