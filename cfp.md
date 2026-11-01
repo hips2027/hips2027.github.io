@@ -8,8 +8,6 @@
 
 Seattle, Washington, USA
 
-[https://hips2027.github.io/](https://hips2027.github.io/)
-
 ---
 
 # Introduction
@@ -64,7 +62,7 @@ Authors are invited to submit original papers in two separate tracks:
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-Please submit papers through the [IPDPS-HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2027).
+Please submit papers through [the HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps)
 
 ---
 
