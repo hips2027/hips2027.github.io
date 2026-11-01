@@ -4,6 +4,8 @@
 
 # 32nd International Workshop on High-level Parallel Programming Models and Supportive Environments
 
+
+
 # Overview
 The 32nd HIPS workshop, to be held as a full-day meeting at the IEEE IPDPS 2027 conference in Seattle, Washington, USA, focuses on high-level programming of
 multiprocessors, compute clusters, and massively
