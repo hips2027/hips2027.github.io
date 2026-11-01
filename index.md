@@ -133,12 +133,9 @@ opportunity to give a short presentation during the workshop.
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2027)
+Please submit papers through [the HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps)
 
-[HIPS 2027 Call for Papers](HIPS27_CFP.txt)
-<!--
-[IPDPS 2027 Call for Papers] (Coming soon)
--->
+[HIPS 2027 Call for Papers](cfp.md)
 
 ---
 
