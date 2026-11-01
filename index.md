@@ -1,9 +1,9 @@
-![IPDPS 2026 Logo](/assets/2027-logo-300px.jpg)
+![IPDPS 2027 Logo](/assets/2027-logo-300px.jpg)
 
-# 31st International Workshop on High-level Parallel Programming Models and Supportive Environments
+# 32nd International Workshop on High-level Parallel Programming Models and Supportive Environments
 
 # Overview
-The 31st HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2026 conference in New Orleans, Louisiana, USA, focuses on high-level programming of
+The 32nd HIPS workshop, to be held as a full-day meeting at the IEEE IPDPS 2027 conference in Seattle, Washington, USA, focuses on high-level programming of
 multiprocessors, compute clusters, and massively
 parallel machines. Like previous workshops in
 this series, which was initially established in 1996,
@@ -13,137 +13,110 @@ compilers, runtime systems, and programming
 tools. It provides a timely forum for scientists and
 engineers to present the latest ideas and findings
 in these rapidly changing fields. In our call for
-papers, we especially encouraged innovative
+papers, we especially invite papers demonstrating innovative
 approaches in the areas of emerging
 programming models for large-scale parallel
 systems and many-core architectures.
 
 ---
-<!-- --- -->
 
 <!-- # News
-## Submission due extended to January 27, 2026, AoE
-## Camera ready due extended to March 13th, 2026 AoE
+## Submission due extended to ..., 2027, AoE
+## Camera ready due extended to ..., 2027 AoE
 ## Workshop program is available below. -->
 
-<!-- --- -->
 <!-- --- -->
 
 # Program
 (TBD)
-<!-- June 3, 2026 \\
-09:00 - 17:35 CEST -->
+<!-- Month Day, 2027 \\
+09:00 - 17:30 PDT -->
 
-## Welcome Remarks 
+## Welcome Remarks
 (TBD)
-<!-- 09:00 - 09:05 CEST \\
-**Michael Gerndt** (Technical University of Munich) -->
-
-<!-- 09:05 - 09:30 CEST \\
-**Michael Gerndt** (Technical University of Munich) -->
+<!-- 09:00 - 09:05 PDT \\
+**Doru Thom Popovici** (Lawrence Berkeley National Lab) and **Yi Ju** (Technical University of Munich) -->
 
 ## Keynote
 (TBD)
+<!-- 09:05 - 10:30 PDT \\
+**Speaker Name** (Affiliation) \\
+**Talk Title** -->
 
-
-<!-- ## Coffee Break -->
-<!-- (Coming Soon) -->
-<!-- 10:30 - 11:00 CEST -->
+<!-- ## Coffee Break
+10:30 - 11:00 PDT -->
 
 <!-- ## Paper Session One
-(Coming Soon) -->
-<!-- 10:30 - 12:30 CEST -->
+11:00 - 12:30 PDT
 
-<!-- **Serverless IoT Framework**\\
-**Isaac Nunez**
+**Paper Title**\\
+**Presenting Author**, Co-Author, Co-Author -->
 
-**Advances in Semantic Patching for HPC-oriented Refactorings with Coccinelle**\\
-**Michele Martone**, Julia Lawall
+<!-- ## Lunch Break
+12:30 - 14:00 PDT -->
 
-**SpMM-Bench: Performance Characterization of Sparse Formats for Sparse-Dense Matrix Multiplication**\\
-Patrick Flynn, **Xinyao Yi**, Erik Saule, Gokcen Kestor, Yonghong Yan
+<!-- ## Paper Session Two
+14:00 - 16:00 PDT
 
-## Lunch Break
-12:30 - 14:00 CEST
+**Paper Title**\\
+**Presenting Author**, Co-Author, Co-Author -->
 
-## Paper Session Two
-14:00 - 16:00 CEST
+<!-- ## Coffee Break
+16:00 - 16:30 PDT -->
 
-**The Case for ABI Interoperability in a Fault Tolerant MPI**\\
-Yao Xu, Grace Nansamba, **Anthony Skjellum**, Gene Cooperman
+<!-- ## Paper Session Three
+16:30 - 17:25 PDT
 
-**Exploring Communication Anomalies in Chapel**\\
-Raneem Abu-Yosef, **Bokyeong Yoon**, Martin Kong
+**Paper Title**\\
+**Presenting Author**, Co-Author, Co-Author -->
 
-**Implementing Directive-Based Deferred Execution for Effective Network Aggregation**\\
-**Aaron Welch**, Oscar Hernandez, Stephen Poole, Wendy Poole
+<!-- ## Closing Remarks
+17:25 - 17:30 PDT \\
+**Doru Thom Popovici** (Lawrence Berkeley National Lab) and **Yi Ju** (Technical University of Munich) -->
 
-**Data Transfer Schemes in the High-Level Communication Library LAIK**\\
-Josef Weidendorfer, Lukas Neef, Robert Hubinger, **Amir Raoofy** -->
-
-<!-- ## Coffee Break -->
-<!-- 16:00 - 16:30 CEST -->
-
-<!-- ## Paper Session Three -->
-<!-- 16:30 - 17:30 CEST -->
-
-<!-- **SYCL for HPC: Adapting to Diverse CPU Architecture**\\
-**Ashish Bisht**, Aniket Garade, Deepika H. V., Haribabu P., S. A. Kumar, S. D. Sudarsan
-
-**LibraryX-ASIC: A First Look**\\
-Sanil Rao, **Larry Tang**, Franz Franchetti
-
-## Closing Remarks
-17:30 - 17:35 PDT \\
-**Michel Gerndt** (Technical University of Munich) -->
-
-<!-- --- -->
 ---
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2026. See 
+Attendance at this workshop is part of the registration for IPDPS 2027. See
 (Coming soon) to register.
-<!-- [here](http://www.ipdps.org/ipdps2026/2026-registration.html)  -->
+<!-- [here](https://www.ipdps.org/ipdps2027/2027-registration.html) -->
 
-
-<!-- Note: at least one author of each paper must be registered for the symposium by March 31st in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student. -->
+<!-- Note: at least one author of each paper must be registered for the symposium by ... in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student. -->
 
 # Topics of Interest
 The main focus areas for this workshop may include, but are not limited to:
 - High-level and domain-specific programming systems
-- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto- tuning)
-- Application of Large Language Models in high-level programming environments
+- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based autotuning)
+- Application of Agentic AI in high-level programming environments
 - Higher-level programming support for quantum computing/quantum simulation
 - Programming Models and Tools for the Edge-Cloud-HPC Continuum
-- (Scalable) programming tools and tools for power & performance analysis, modeling,monitoring and debugging, and core correctness
+- (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring and debugging, and core correctness
 - Compiler analysis and optimization techniques
 - OS and architectural support for parallel programming and debugging
 - Software and system support for extreme scalability including fault tolerance and power-aware HPC
-- Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
-- Solutions for programming paradigms for GPUs from different hardware vendors
+- Programming environments for heterogeneous multicore systems and accelerators such as GPUs, FPGAs and RISC-V
+- Solutions for programming paradigms from different hardware vendors
 - Performance portability
 - Efforts for improving the sustainability of scientific software
 - Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
-- Static and dynamic analysis for bug detection of parallel and distributed programs.
+- Static and dynamic analysis for bug detection of parallel and distributed programs
 
 ---
-<!-- --- -->
 
 # Important Deadlines
 
-Submission due date: January 17, 2026, Anywhere on Earth (AoE)
-<!-- </strike> January 27 2026 (extended), Anywhere on Earth (AoE) -->
+Submission due date: Early January 2027 (exact date TBA), Anywhere on Earth (AoE)
+<!-- Submission due date: January XX, 2027, Anywhere on Earth (AoE) -->
 
-Author notification: February 21st, 2026 AoE
-<!--Author notification: Mid February 2026 -->
+Author notification: Mid February 2027 (exact date TBA)
+<!-- Author notification: February XX, 2027 AoE -->
 
-Camera-ready papers: March 6th, 2026 AoE 
+Camera-ready papers: End of February 2027 (exact date TBA)
+<!-- Camera-ready papers: February XX, 2027 AoE -->
 
-<!--Camera-ready papers: End of February 2026-->
-<!-- (once approved, dates can/will be adjusted based on IPDPS schedules) -->
+(Dates may be adjusted based on the IPDPS 2027 schedule.)
 
 ---
-<!-- --- -->
 
 # Submission
 Authors are invited to submit original papers in two separate tracks:
@@ -160,72 +133,78 @@ opportunity to give a short presentation during the workshop.
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2026)
+Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2027)
 
-[HIPS 2026 Call for Papers](HIPS26_CFP.txt)
+[HIPS 2027 Call for Papers](HIPS27_CFP.txt)
 <!--
-[IPDPS 2026 Call for Papers] (Coming soon)
+[IPDPS 2027 Call for Papers] (Coming soon)
 -->
+
 ---
-<!-- --- -->
 
 # Proceedings
 
-The accepted full papers will be published in the IPDPS 2026 Workshops proceedings by the IEEE Xplore Digital Library.
+The accepted full papers will be published in the IPDPS 2027 Workshops proceedings by the IEEE Xplore Digital Library.
 (Short papers will not appear in the proceedings.)
 Presentation of an accepted paper at the conference is a requirement of publication.
 Any paper that is not presented at the conference will not be included in IEEE Xplore.
 
 ---
-<!-- --- -->
 
 # Committees
 
 ## Workshop Co-chairs
-- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)
-- Nikela Papadopoulou, University of Glasgow
-  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)
-
+- Doru Thom Popovici, Lawrence Berkeley National Lab, California, USA
+  [dtpopovici@lbl.gov](mailto:dtpopovici@lbl.gov)
+- Yi Ju, Technical University of Munich, Germany
+  [yi.ju@tum.de](mailto:yi.ju@tum.de)
 
 ## Steering Committee
-Rudolf Eigenmann, University of Delaware, USA
-Michael Gerndt, Technische Universität München, Germany
-Frank Mueller, North Carolina State University, USA
-Martin Schulz, Technische Universität München, Germany 
+- Rudolf Eigenmann, University of Delaware, USA
+- Michael Gerndt, Technical University of Munich, Germany
+- Frank Mueller, North Carolina State University, USA
+- Martin Schulz, Technical University of Munich, Germany
 
 ## Program Committee
-- Akihiro Ayashi, Georgia Tech, USA
-- Doru Popovici, Lawrence Berkeley National Lab, USA
-- Florina Ciorba, University of Basel, Switzerland
-- Gordon Moon, Sogang University, South Korea
-- Jens Domke, RIKEN, Japan
-- Jing Chen, Chalmers University of Technology, Sweden
-- Jinsung Kim, Chung-Ang University, South Korea
-- Johannes Doerfert, Lawrence Livermore National Lab, USA
-- Jun Shirako, Georgia Tech, USA
-- Kirshanthan Sundararajah, Virginia Tech, USA
-- Malith Jayaweera, AWS, USA
-- Nicholas Bohm-Agostini, Pacific Northwest National Lab, USA
-- Osman Simsek, University of Basel, Switzerland
-- Petros Anastasiadis, Huawei Research, Switzerland
-- Richard Veras, University of Oklahoma, USA
-- Sergio Iserte, Barcelona Supercomputing Center, Spain
-- Sunita Chandrasekaran, University of Delaware, USA
-- Tiago Cogumbreiro, University of Massachusetts Boston, USA
+- Amir Raoofy, Leibniz Supercomputing Centre, Germany
+- Ana Gainaru, Los Alamos National Lab, USA
+- Brian Austin, Lawrence Berkeley National Lab, USA
+- Diego Jimenez Vargas, Max Planck Computing and Data Facility, Germany
+- Durga Mandarapu, Lawrence Berkeley National Lab, USA
+- Eishi Arima, Technical University of Munich, Germany
+- Emil Vatai, RIKEN R-CCS, Japan
+- George Bisbas, Huawei, Switzerland
+- Jose Monsalve Diaz, AMD, USA
+- Josef Weidendorfer, Dresden University of Technology, Germany
+- Quanquan Liu, Columbia University, USA
+- Sanil Rao, NVIDIA, USA
+- Shaikh Arifuzzaman, University of Nevada, Las Vegas, USA
+- Upasana Sridhar, Carnegie Mellon University, USA
+<!-- Pending confirmation:
+- Gianluca Mittone, University of Turin, Italy
+- Ivy Peng, KTH Royal Institute of Technology, Sweden
+- Kazem Shekofteh, Heidelberg University, Germany
+- Keita Teranishi, Oak Ridge National Lab, USA
+- Marta Garcia Gasulla, Barcelona Supercomputing Center, Spain
+- Michael Klemm, AMD, Germany
+- Paul Kelly, Imperial College London, UK
+- Sunggon Kim, Seoul National University of Science and Technology, South Korea
+- William Godoy, Oak Ridge National Lab, USA
+-->
 
 ---
-<!-- --- -->
 
 # History
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [30th HIPS 2025](https://hips2025.github.io)                                   | June 3, 2025    | Milan, Italy
-| [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2023   | San Francisco, California USA       |
+| [31st HIPS 2026](https://hips2026.github.io/)                                  | May 25th 2026   | New Orleans, Louisiana, USA         |
+| [30th HIPS 2025](https://hips2025.github.io/)                                  | June 3rd 2025   | Milan, Italy                        |
+| [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2024   | San Francisco, California, USA      |
 | [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
-| [27th HIPS 2022](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
-| [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Virtual                             |
-| [25th HIPS 2020](https://faculty.ucmerced.edu/dong-li/HIPS_2020.htm)           | May 18th 2020   | New Orleans, Louisiana, USA         |
+| [27th HIPS 2022](https://hips2022.github.io/)                                  | May 30th 2022   | Lyon, France (Virtual)              |
+| [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Portland, Oregon, USA (Virtual)     |
+| [25th HIPS 2020](https://faculty.ucmerced.edu/dong-li/HIPS_2020.htm)           | May 18th 2020   | New Orleans, Louisiana, USA (canceled due to COVID-19; materials online) |
 | [24th HIPS 2019](https://hosting.cs.vt.edu/hips2019/)                          | May 20th 2019   | Rio de Janeiro, Brazil              |
 | [23rd HIPS 2018](http://hips2018.mnm-team.org/)                                | May 21st 2018   | Vancouver, British Columbia, Canada |
 | [22nd HIPS 2017](https://inside.mines.edu/~bwu/sites/HIPS2017/)                | May 29th 2017   | Orlando, FL, USA                    |
@@ -250,4 +229,3 @@ Martin Schulz, Technische Universität München, Germany
 | 3rd HIPS 1998                                                                  | March 30th 1998 | Orlando, FL, USA                    |
 | 2nd HIPS 1997                                                                  | April 1st 1997  | Geneva, Switzerland                 |
 | 1st HIPS 1996                                                                  | April 16th 1996 | Honolulu, HI, USA                   |
-
