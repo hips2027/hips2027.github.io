@@ -37,9 +37,9 @@ Topics of interest to the HIPS workshop include but are not limited to:
 ---
 
 # Important Dates
-- Paper submission deadline: Early January 2027 (exact date TBA), Anywhere on Earth (AoE)
-- Notification of acceptance: Mid February 2027 (exact date TBA)
-- Camera-ready papers due: End of February 2027 (exact date TBA)
+- Paper submission deadline: January 17, 2027, Anywhere on Earth (AoE)
+- Notification of acceptance: February 21, 2027 AoE
+- Camera-ready papers due: March 6, 2027, AoE
 - Workshop day: TBA (IPDPS 2027 dates TBA)
 
 <!--

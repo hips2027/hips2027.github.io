@@ -107,16 +107,11 @@ The main focus areas for this workshop may include, but are not limited to:
 
 # Important Deadlines
 
-Submission due date: Early January 2027 (exact date TBA), Anywhere on Earth (AoE)
-<!-- Submission due date: January XX, 2027, Anywhere on Earth (AoE) -->
+Submission due date: January 17, 2027, Anywhere on Earth (AoE)
 
-Author notification: Mid February 2027 (exact date TBA)
-<!-- Author notification: February XX, 2027 AoE -->
+Author notification: February 21, 2027 AoE
 
-Camera-ready papers: End of February 2027 (exact date TBA)
-<!-- Camera-ready papers: February XX, 2027 AoE -->
-
-(Dates may be adjusted based on the IPDPS 2027 schedule.)
+Camera-ready papers due: March 6, 2027 AoE
 
 ---
 
