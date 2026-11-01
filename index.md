@@ -1,5 +1,7 @@
 ![IPDPS 2027 Logo](/assets/2027-logo-300px.jpg)
 
+**[Read the HIPS 2027 Call for Papers](cfp.md)**
+
 # 32nd International Workshop on High-level Parallel Programming Models and Supportive Environments
 
 # Overview
