@@ -172,6 +172,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Diego Jimenez Vargas, Max Planck Computing and Data Facility, Germany
 - Durga Mandarapu, Lawrence Berkeley National Lab, USA
 - Eishi Arima, Technical University of Munich, Germany
+- Elliott Binder, Efficient Computer, USA
 - Emil Vatai, RIKEN R-CCS, Japan
 - George Bisbas, Huawei, Switzerland
 - Gianluca Mittone, University of Turin, Italy
