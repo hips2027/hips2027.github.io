@@ -178,11 +178,11 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Josef Weidendorfer, Dresden University of Technology, Germany
 - Kazem Shekkofteh, University of Heidelberg, Germany
 - Paul Kelly, Imperial College London, UK
-- Quanquan Liu, Columbia University, USA
+- Quanquan Liu, Yale University, USA
 - Sanil Rao, NVIDIA, USA
 - Shaikh Arifuzzaman, University of Nevada, Las Vegas, USA
 - Sunggon Kim, Seoul National University of Science and Technology, South Korea
-- Takahiro Katagiri, Nagoya Univeristy, Japan
+- Takahiro Katagiri, Nagoya University, Japan
 - William Godoy, Oak Ridge National Lab, USA
 
 <!-- Pending confirmation:
