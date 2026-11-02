@@ -164,8 +164,9 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Martin Schulz, Technical University of Munich, Germany
 
 ## Program Committee
-- Ari Rasch, University of Muenster, Germany
+- Ahmad Taraf, TU Darmstadt, Germany
 - Amir Raoofy, Leibniz Supercomputing Centre, Germany
+- Ari Rasch, University of Muenster, Germany
 - Ana Gainaru, Los Alamos National Lab, USA
 - Brian Austin, Lawrence Berkeley National Lab, USA
 - Diego Jimenez Vargas, Max Planck Computing and Data Facility, Germany
@@ -173,10 +174,12 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Eishi Arima, Technical University of Munich, Germany
 - Emil Vatai, RIKEN R-CCS, Japan
 - George Bisbas, Huawei, Switzerland
+- Gianluca Mittone, University of Turin, Italy
 - Hans Vandierendonck, Queen's University Belfast, UK
 - Jose Monsalve Diaz, AMD, USA
 - Josef Weidendorfer, Dresden University of Technology, Germany
 - Kazem Shekkofteh, University of Heidelberg, Germany
+- Michael Klemm, AMD, Germany
 - Paul Kelly, Imperial College London, UK
 - Quanquan Liu, Yale University, USA
 - Sanil Rao, NVIDIA, USA
@@ -186,10 +189,8 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - William Godoy, Oak Ridge National Lab, USA
 
 <!-- Pending confirmation:
-- Gianluca Mittone, University of Turin, Italy
 - Ivy Peng, KTH Royal Institute of Technology, Sweden
 - Marta Garcia Gasulla, Barcelona Supercomputing Center, Spain
-- Michael Klemm, AMD, Germany
 -->
 
 ---
