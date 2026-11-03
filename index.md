@@ -187,6 +187,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Shaikh Arifuzzaman, University of Nevada, Las Vegas, USA
 - Sunggon Kim, Seoul National University of Science and Technology, South Korea
 - Takahiro Katagiri, Nagoya University, Japan
+- Toshiyuki Imamura, RIKEN R-CCS, Japan
 - William Godoy, Oak Ridge National Lab, USA
 
 <!-- Pending confirmation:
